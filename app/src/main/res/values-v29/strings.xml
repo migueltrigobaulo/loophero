@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_permission_rationale" >To accurately count the viewed reels, tiktoks, and shorts through gestures performed within the application, it is necessary to request accessibility permissions. These permissions allow the application to detect and analyze the gestures made by the user while browsing the content. It is important to note that the data collected through these permissions is not sent to the internet or processed outside the device. The purpose of requesting these permissions is solely to count and record the number of videos viewed. User data privacy and security are paramount, ensuring that the collected information is kept securely and used only internally on the device without being shared with third parties.</string>
+    <string name="allow" >Allow</string>
+</resources>

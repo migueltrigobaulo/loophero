@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लूपहीरो</string>
+    <string name="im_watching_title">अपने सर्वश्रेष्ठ संस्करण की शुरुआत करें</string>
+    <string name="im_watching_content">हार मत मानो!</string>
+    <string name="reel_number">रील की संख्या</string>
+    <string name="changes_saved">परिवर्तन सहेजे गए</string>
+    <string name="accessibility">पहुँचता-पहुँचता</string>
+    <string name="permissions_needed">अनुमतियाँ आवश्यक</string>
+    <string name="permissions_message">ऐप्लिकेशन को सही ढंग से काम करने के लिए, सूचनाएं प्रदर्शित करने और पहुँचता-पहुँचता सेवा के लिए अनुमतियाँ देनी चाहिए।</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="everything_ready">सब तैयार है</string>
+    <string name="can_continue">अब जारी रख सकते हैं :)</string>
+    <string name="configure_reels_counter">यहां निर्धारित करें कि आप कितने रील पर चेतावनी प्राप्त करना चाहते हैं।</string>
+    <string name="configuration">कॉन्फ़िगरेशन</string>
+    <string name="save">सहेजें</string>
+    <string name="info">Info</string>
+    <string name="accessibility_permission_rationale" >ऐप्लिकेशन के भीतर हाथ की चालों द्वारा देखे गए रील्स, टिकटॉक्स और शॉर्ट्स की सटीक गिनती करने के लिए सुविधा अनुमतियाँ मांगना आवश्यक होता है। ये अनुमतियाँ ऐप्लिकेशन को यूज़र द्वारा सामग्री ब्राउज़ करते समय किए गए हाथ की चालों का पता लगाने और विश्लेषण करने की अनुमति देती हैं। इंटरनेट पर कोई डेटा नहीं भेजा जाता है और ये उपकरण के बाहर प्रोसेस नहीं किए जाते हैं। इन्हें सिर्फ वीडियो की संख्या को गिनने और रजिस्टर करने के लिए इस्तेमाल किया जाता है। कोई भी जानकारी संग्रहित या किसी भी रूप में भेजी नहीं जाती है।</string>
+    <string name="allow">अनुमति देना</string>
+
+    <string-array name="title">
+        <item>एक और रील</item>
+        <item>चलो, सही में</item>
+        <item>फिर से रील्स?</item>
+        <item>बंद करो इस लूप को</item>
+        <item>अभी भी इसमें?</item>
+        <item>आप अपने समय के साथ क्या कर रहे हैं</item>
+        <item>डोपामाइन की लत</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>और एक बर्बाद मिनट</item>
+        <item>निश्चित रूप से आपके पास बेहतर काम होंगे</item>
+        <item>समय बर्बाद करना बंद करो</item>
+        <item>या अंदर अपना जीवन खो दो</item>
+        <item>निश्चित रूप से आपके पास काम होंगे</item>
+        <item>इसका आपके जीवन पर प्रभाव पड़ेगा</item>
+        <item>यह आपकी इच्छाशक्ति को खत्म कर रहा है</item>
+    </string-array>
+    <string name="deny">इनकार करना</string>
+</resources>

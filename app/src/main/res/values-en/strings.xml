@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoopHero</string>
+    <string name="im_watching_title">Start your best version</string>
+    <string name="im_watching_content">Don\'t give up!</string>
+    <string name="reel_number">Number of reels</string>
+    <string name="changes_saved">Changes saved, you can exit now</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="permissions_needed">Permissions needed</string>
+    <string name="permissions_message">For the app to function properly, permissions need to be granted for displaying notifications and the accessibility service.</string>
+    <string name="notifications">Notifications</string>
+    <string name="everything_ready">Everything ready</string>
+    <string name="can_continue">You can now continue :)</string>
+    <string name="configure_reels_counter">Configure how many reels you want to receive a warning.</string>
+    <string name="configuration">Configuration</string>
+    <string name="save">Save</string>
+    <string name="info">Info</string>
+    <string name="accessibility_permission_rationale" >To accurately count the viewed reels, tiktoks, and shorts through gestures performed within the application, it is necessary to request accessibility permissions. These permissions allow the application to detect and analyze the gestures made by the user while browsing the content. No data is sent to the internet or processed outside the device. They are simply used to count and record the number of videos viewed. No information is stored or sent in any form.</string>
+    <string name="allow" >Allow</string>
+
+    <string-array name="title">
+        <item>Another reel</item>
+        <item>Come on, seriously</item>
+        <item>Reels again?</item>
+        <item>Break the loop</item>
+        <item>Still at it?</item>
+        <item>What you do with your time</item>
+        <item>The dopamine addiction</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>Another wasted minute</item>
+        <item>Surely you have better things to do</item>
+        <item>Time to stop wasting time</item>
+        <item>Or waste your life within</item>
+        <item>Surely you have things to do</item>
+        <item>It will reflect in your life</item>
+        <item>It\'s killing your desire</item>
+    </string-array>
+    <string name="deny">Deny</string>
+</resources>

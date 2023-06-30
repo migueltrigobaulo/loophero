@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoopHero</string>
+    <string name="im_watching_title">Comienza tu mejor versión</string>
+    <string name="im_watching_content">¡No te rindas!</string>
+    <string name="reel_number">Número de reels</string>
+    <string name="changes_saved">Cambios guardados, ya puedes salir</string>
+    <string name="accessibility">Accesibilidad</string>
+    <string name="permissions_needed">Se necesitan permisos</string>
+    <string name="permissions_message">Para que la aplicación funcione correctamente, se han de conceder permisos para mostrar notificaciones y al sevicio de accesibilidad.</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="everything_ready">Todo listo</string>
+    <string name="can_continue">Ya puedes continuar :)</string>
+    <string name="configure_reels_counter">Configura cada cuantos reels quieres un aviso.</string>
+    <string name="configuration">Configuración</string>
+    <string name="save">Guardar</string>
+    <string name="info">Info</string>
+    <string name="accessibility_permission_rationale">Para realizar un conteo preciso de los reels, tiktoks y shorts vistos a través de los gestos realizados dentro de la aplicación, es necesario solicitar los permisos de accesibilidad. Estos permisos permiten a la aplicación detectar y analizar los gestos realizados por el usuario mientras navega por el contenido. No se envían datos a internet ni se procesan fuera del dispositivo. Simplemente se utilizan para contar y registrar la cantidad de videos vistos. No se conserva ni se envía ningún tipo de información.</string>
+    <string name="allow" >Permitir</string>
+
+    <string-array name="title">
+        <item>Otro reel</item>
+        <item>Venga, en serio</item>
+        <item>¿Reels otra vez?</item>
+        <item>Rompe el bucle</item>
+        <item>¿Sigues con esto?</item>
+        <item>Lo que haces con tu tiempo</item>
+        <item>La adicción a la dopamina</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>Otro minuto desperciciado</item>
+        <item>Seguro que tienes cosas mejores que hacer</item>
+        <item>Hora de dejar de perder el tiempo</item>
+        <item>O gasta tu vida dentro</item>
+        <item>Seguro que tienes cosas que hacer</item>
+        <item>Se verá reflejado en tu vida</item>
+        <item>Está acabando con tus ganas</item>
+    </string-array>
+    <string name="deny">Denegar</string>
+
+</resources>

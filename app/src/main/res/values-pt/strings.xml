@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoopHero</string>
+    <string name="im_watching_title">Inicie sua melhor versão</string>
+    <string name="im_watching_content">Não desista!</string>
+    <string name="reel_number">Número de reels</string>
+    <string name="changes_saved">Alterações salvas</string>
+    <string name="accessibility">Acessibilidade</string>
+    <string name="permissions_needed">Permissões necessárias</string>
+    <string name="permissions_message">Para que o aplicativo funcione corretamente, as permissões para exibir notificações e o serviço de acessibilidade devem ser concedidas.</string>
+    <string name="notifications">Notificações</string>
+    <string name="everything_ready">Tudo pronto</string>
+    <string name="can_continue">Agora você pode continuar :)</string>
+    <string name="configure_reels_counter">Configure quantos reels você deseja receber um aviso.</string>
+    <string name="configuration">Configuração</string>
+    <string name="save">Salvar</string>
+    <string name="info">Info</string>
+    <string name="accessibility_permission_rationale" >Para realizar uma contagem precisa dos reels, tiktoks e shorts visualizados por meio de gestos realizados dentro do aplicativo, é necessário solicitar as permissões de acessibilidade. Essas permissões permitem que o aplicativo detecte e analise os gestos feitos pelo usuário durante a navegação no conteúdo. Não são enviados dados para a internet ou processados fora do dispositivo. Eles são simplesmente usados para contar e registrar a quantidade de vídeos visualizados. Nenhuma informação é armazenada ou enviada de qualquer forma.</string>
+    <string name="allow" >Permitir</string>
+
+    <string-array name="title">
+        <item>Outro reel</item>
+        <item>Vamos lá, a sério</item>
+        <item>Reels de novo?</item>
+        <item>Quebre o ciclo</item>
+        <item>Ainda nisso?</item>
+        <item>O que você faz com seu tempo</item>
+        <item>O vício em dopamina</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>Mais um minuto desperdiçado</item>
+        <item>Com certeza você tem coisas melhores para fazer</item>
+        <item>Hora de parar de perder tempo</item>
+        <item>Ou perca sua vida nisso</item>
+        <item>Com certeza você tem coisas para fazer</item>
+        <item>Isso se refletirá em sua vida</item>
+        <item>Está acabando com sua vontade</item>
+    </string-array>
+    <string name="deny">Negar</string>
+</resources>
